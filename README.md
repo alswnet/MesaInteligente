@@ -8,13 +8,16 @@ Mesa Inteligente del Estudio de ALSW
 * Macros en pc
 * Manejo de Luces
 * Alarma
-* Control de Tela verde 
+* Control de Tela verde
 * Manejo de PC
 
 ## Modelo 3D
 ![MesaInteligente](Modelo3D/MesaInteligente.jpeg)
 
 Agujeros
+![MesaInteligente](Modelo3D/AgujerosLimpio.jpeg)
+
+Agujeros con Medidas
 ![MesaInteligente](Modelo3D/Agujeros.jpeg)
 
 ## Dimenciones Mesa
@@ -22,3 +25,7 @@ Agujeros
 largo | ancho | grosor
 ------------ | ------------- | -----------
 180 cm  | 75 cm | 3 cm
+
+# Contribuidores
+
+* [chepecarlos](http://chepecarlos.com)
