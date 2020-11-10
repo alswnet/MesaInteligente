@@ -1,0 +1,23 @@
+{
+  "name": "mesainteligente",
+  "version": "1.0.0",
+  "description": "Mesa Inteligente del Estudio de ALSW",
+  "main": "MesaInteligente.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alswnet/MesaInteligente.git"
+  },
+  "author": "chepecarlos (https:\\chepecarlos.com)",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0",
+    "serialport": "^9.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/alswnet/MesaInteligente/issues"
+  },
+  "homepage": "https://github.com/alswnet/MesaInteligente#readme"
+}
